@@ -69,7 +69,7 @@ export default function App() {
     {/* Logo + Heading */}
    <div className="flex justify-center md:justify-start items-center gap-2 bg-white text-blue-900 rounded-3xl py-2 px-4 w-fit mx-auto md:mx-0">
   <img 
-    src="/WOM.png" 
+     src={`${process.env.PUBLIC_URL}/WOM.png`} 
     alt="WeatherOnMap Logo" 
     className="h-10 md:h-10 lg:h-12"
   />
