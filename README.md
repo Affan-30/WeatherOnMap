@@ -8,10 +8,15 @@ It combines a simple, intuitive map interface with instant weather insights, dis
 ## 🌟 Features
 
 ✅ **Click-to-Weather** – Get instant weather reports simply by clicking anywhere on the map.
+
 ✅ **Real-Time Data** – Displays current temperature, weather conditions (e.g., "Broken Clouds"), and a dynamic weather icon.
+
 ✅ **Precise Location** – Automatically shows the city name, latitude, and longitude for the selected point.
+
 ✅ **Interactive Map UI** – Built with **Leaflet.js** for a smooth, zoomable, and pannable map experience.
+
 ✅ **Responsive Design** – Fully functional and looks great on desktop, tablet, and mobile devices.
+
 ✅ **Clean & Modern UI** – Features a beautiful blurred glass card to display weather info without clutter.
 
 -----
