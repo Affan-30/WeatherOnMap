@@ -44,4 +44,4 @@ It combines a simple, intuitive map interface with instant weather insights, dis
 
 ## 🚀 Live Demo
 
-👉 [**View WeatherOnMap Live**](https://www.google.com/search?q=https://affan-30.github.io/WeatherOnMap/)
+👉 [**View WeatherOnMap Live**](https://affan-30.github.io/WeatherOnMap/)
